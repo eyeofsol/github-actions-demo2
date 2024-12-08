@@ -1,4 +1,4 @@
-name: Conditional, Sharing and Matrix Workflow Example
+name: Conditional, Sharing and Matrix Workflow Examples
 
 on:
   push:
